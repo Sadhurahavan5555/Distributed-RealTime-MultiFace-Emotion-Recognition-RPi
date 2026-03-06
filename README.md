@@ -159,8 +159,6 @@ For reuse or extension, please provide appropriate attribution.
 
 ## 👨‍💻 Developed By
 
-## 👨‍💻 Developed By
-
 **Sadhurahavan**  
-Mechatronics Engineer
+Mechatronics Engineer  
 Research Intern – NIT Tiruchirappalli
