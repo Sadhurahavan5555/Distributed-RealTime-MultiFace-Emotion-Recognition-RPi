@@ -160,3 +160,5 @@ For reuse or extension, please provide appropriate attribution.
 ## 👨‍💻 Developed By
 
 **Sadhurahavan**
+Mechatronics Engineer
+Research Intern – NIT Tiruchirappalli
