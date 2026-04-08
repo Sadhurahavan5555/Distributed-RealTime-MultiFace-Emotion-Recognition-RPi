@@ -78,7 +78,7 @@ The architecture leverages distributed networking to offload optical data captur
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/<Sadhurahavan5555>/Distributed-RealTime-MultiFace-Emotion-Recognition-RPi.git
+git clone https://github.com/Sadhurahavan5555/Distributed-RealTime-MultiFace-Emotion-Recognition-RPi.git
 cd Distributed-RealTime-MultiFace-Emotion-Recognition-RPi
 ```
 
